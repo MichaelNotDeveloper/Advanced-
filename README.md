@@ -1,2 +1,2 @@
 # Advanced-
-Documented seminars of hse c++ advaenced course
+Documented seminars of hse c++ advanced course
